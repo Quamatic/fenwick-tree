@@ -1,16 +1,16 @@
-## Fenwick Tree
+# Fenwick Tree
 
 A 1-based Fenwick Tree implementation for Roblox, for efficient computation of dynamic prefix sums.
 
-## Installation
+# Installation
 
-### Wally
+## Wally
 
 ```sh
 FenwickTree = "quamatic/fenwick-tree@0.1.0"
 ```
 
-### Roblox TypeScript
+## Roblox TypeScript
 
 ```sh
 npm i @rbxts/fenwick-tree
