@@ -1,6 +1,5 @@
-std = "roblox"
+std = "roblox+testez"
 
 [lints]
 global_usage = "allow"
 shadowing = "allow"
-mixed_table = "allow"

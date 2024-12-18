@@ -1,0 +1,30 @@
+{
+    "name": "fenwick-tree-test",
+    "tree": {
+        "$className": "DataModel",
+
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+
+            "DevPackages": {
+                "$path": "DevPackages",
+
+                "FenwickTree": {
+                    "$path": "src"
+                }
+            }
+        },
+
+        "TestService": {
+            "$className": "TestService",
+
+            "$properties": {
+                "ExecuteWithStudioRun": true
+            },
+
+            "test": {
+               "$path": "test"
+            }
+        }
+    }
+}

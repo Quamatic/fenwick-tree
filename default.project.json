@@ -1,0 +1,6 @@
+{
+    "name": "fenwick-tree",
+    "tree": {
+        "$path": "src"
+    }
+}

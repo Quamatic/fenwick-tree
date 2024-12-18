@@ -2,3 +2,9 @@
 /out
 /include
 *.tsbuildinfo
+
+# Wally
+/DevPackages
+
+# Rojo
+/sourcemap.json
