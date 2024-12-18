@@ -2,7 +2,7 @@
   "name": "@rbxts/fenwick-tree",
   "version": "1.0.0",
   "description": "A 1-based Fenwick Tree implementation.",
-  "main": "src/init.lua",
+  "main": "src/init.luau",
   "scripts": {
     "build": "rbxtsc",
     "watch": "rbxtsc -w",
