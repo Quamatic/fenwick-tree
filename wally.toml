@@ -5,6 +5,15 @@ license = "MIT"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+include = [
+    "src",
+    "src/*",
+    "default.project.json",
+    "wally.toml",
+    "README.md",
+    "LICENSE",
+]
+exclude = ["**"]
 
 [dev-dependencies]
 TestEZ = "roblox/testez@0.4.1"
