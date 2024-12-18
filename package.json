@@ -14,8 +14,12 @@
     "fenwick-tree",
     "binary-indexed-tree"
   ],
-  "author": "quamatic",
   "license": "MIT",
+  "author": "quamatic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quamatic/fenwick-tree.git"
+  },
   "types": "src/index.d.ts",
   "files": [
     "src",
@@ -36,6 +40,5 @@
     "prettier": "^3.4.2",
     "roblox-ts": "^3.0.0",
     "typescript": "^5.7.2"
-  },
-  "packageManager": "pnpm@9.12.1"
+  }
 }
